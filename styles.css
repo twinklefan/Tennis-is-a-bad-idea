@@ -3,9 +3,7 @@ html, * {
 }
 body {
     background-color: #2bff4395;
-}
-h1, h2, p {
-    
+    font-family: 'Poppins', sans-serif;
 }
 h1 {
     font-size: 4rem;
@@ -21,7 +19,7 @@ p {
     padding: 30px;
     background-color: #78cdea;
     color: white;
-    height: 350px;
+    height: 425px;
     margin: 0 0 20px 0;
 }
 .d1 {
