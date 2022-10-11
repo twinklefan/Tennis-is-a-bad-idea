@@ -1,0 +1,51 @@
+html, * {
+    margin: 0;
+}
+body {
+    background-color: #2bff4395;
+}
+h1, h2, p {
+    
+}
+h1 {
+    font-size: 4rem;
+    margin: 20px;
+}
+h2 {
+    font-size: 2.5rem;
+}
+p {
+    font-size: 1rem;
+}
+#titleDiv {
+    padding: 30px;
+    background-color: #78cdea;
+    color: white;
+    height: 350px;
+    margin: 0 0 20px 0;
+}
+.d1 {
+    padding: 30px;
+    background-color: #78cdea;
+    color: white;
+    margin: 20px 50px;
+    border-radius: 30px;
+}
+.d2 {
+    padding: 30px;
+    background-color: #46d936;
+    color: white;
+    margin: 20px 50px;
+    border-radius: 30px;
+}
+hr {
+    border-top: dotted;
+    border-width: 10px 0 0 0;
+    width: 200px;
+    color: white;
+}
+.titleImg {
+    width: 125px;
+    height: 125px;
+    margin: 40px;
+}
